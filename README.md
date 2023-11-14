@@ -15,6 +15,6 @@ nothing worth puting here yet
 
 
 ## contact
-* [discord](discord.com/users/502510499322134558) -  wolfsyncc
+* [discord](https://discord.com/users/502510499322134558) -  wolfsyncc
 * [twitter](https://twitter.com/wolfsyncc) - @wolfsyncc
 * my username is wolfsyncc on almost everything
