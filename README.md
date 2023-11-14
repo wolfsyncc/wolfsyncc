@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <h1>hello, i'm wolf</h1>
+  my balls hurt
+</div>
 
-<!--
-**wolfsyncc/wolfsyncc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## current projects
+* [pengucord](https://github.com/TinyGamesCoding/PenguCord)
+* [pengutube](https://studio.penguinmod.com/#9062381992529)
+* [errrmmmmm uhhhhhh](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Here are some ideas to get you started:
+## recent updates
+ nothing worth puting here yet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## contact
+* [discord](discord.com/users/502510499322134558) -  wolfsyncc
+* [twitter](https://twitter.com/wolfsyncc) - @wolfsyncc
+* my username is wolfsyncc on almost everything
