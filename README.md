@@ -4,7 +4,7 @@
 </div>
 
 ## current projects
-* [pengucord](https://github.com/TinyGamesCoding/PenguCord) - a discord recreation in [penguinmod](https://penguinmod.com)
+* Yes
 * [errrmmmmm uhhhhhh](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - a couple random things in one
 
 ## recent updates
